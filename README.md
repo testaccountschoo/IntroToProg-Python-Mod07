@@ -6,17 +6,17 @@ This seventh assignment includes watching a module video on Canvas, reading a ch
 ## Assignment07_Starter.py
 We were made to create a script that asked for a user’s ID and name. The script would then save this data to a list before using the pickle function to save this list to a binary file, displaying the contents as well. From a first glance, I believe I got my code to work; most of the information I needed was taken from chapter seven of the textbook (where the pickle function is expanded on in length on page two hundred), while the recording helped somewhat on aspects of the assignment I couldn’t find information for from the textbook. Otherwise, some code was taken from the answer key of assignments five and six, but I didn’t have much difficulty in completing this assignment.
  
-![alt text] (https://github.com/testaccountschoo/IntroToProg-Python-Mod07/blob/main/Picture1.png "test")
-![alt text] (https://github.com/testaccountschoo/IntroToProg-Python-Mod07/blob/main/Picture2.png "test")
+![alt text](https://github.com/testaccountschoo/IntroToProg-Python-Mod07/blob/main/Picture1.png "test")
+![alt text](https://github.com/testaccountschoo/IntroToProg-Python-Mod07/blob/main/Picture2.png "test")
 Figure 1: Assignment07.py Script in PyCharm
 
-![alt text] (https://github.com/testaccountschoo/IntroToProg-Python-Mod07/blob/main/Picture3.png "test")
+![alt text](https://github.com/testaccountschoo/IntroToProg-Python-Mod07/blob/main/Picture3.png "test")
 Figure 2: Assignment07.py Output in PyCharm
 
-![alt text] (https://github.com/testaccountschoo/IntroToProg-Python-Mod07/blob/main/Picture4.png "test")
+![alt text](https://github.com/testaccountschoo/IntroToProg-Python-Mod07/blob/main/Picture4.png "test")
 Figure 3: Assignment07.py AppData.dat Output
 
- [alt text] (https://github.com/testaccountschoo/IntroToProg-Python-Mod07/blob/main/Picture5.png "test")
+![alt text](https://github.com/testaccountschoo/IntroToProg-Python-Mod07/blob/main/Picture5.png "test")
 Figure 4: Assignment07.py Output in Command Shell
 
 
